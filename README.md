@@ -1,5 +1,5 @@
 # Juniper Design Homes
 
-Static site for juniperdesignhomes.com.
+Live site source for juniperdesignhomes.com.
 
-Connect this repo to the Vercel project that owns the domain, then deploy Production.
+Connected to Vercel project juniper-design-homes.
