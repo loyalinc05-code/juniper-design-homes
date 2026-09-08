@@ -9,7 +9,14 @@ window.PROJECTS = [
     count: 25,
     keep: [1, 9],
     insertAfter: 1,
-    extra: []
+    extra: [
+      "images/big-indian/26.jpg",
+      "images/big-indian/27.jpg",
+      "images/big-indian/28.jpg",
+      "images/big-indian/29.jpg",
+      "images/big-indian/30.jpg",
+      "images/big-indian/31.jpg"
+    ]
   },
   { slug: "twin-gables", title: "Gallery House", count: 31 },
   { slug: "kamp-rd", title: "Hearth and Timber House", count: 22, skip: [12, 13, 21, 22] },
